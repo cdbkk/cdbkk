@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/cdbkk/vuln-monkey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdbkk&repo=vuln-monkey&hide_border=true&theme=transparent" alt="vuln-monkey" />
+    <img src="https://cdn.jsdelivr.net/gh/cdbkk/vuln-monkey@5b24712/assets/banner.svg" alt="vuln-monkey — AI-powered API security fuzzer" width="100%">
   </a>
 </p>
 
