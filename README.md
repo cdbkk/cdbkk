@@ -1,8 +1,7 @@
 <h1 align="center">cdbkk</h1>
 
 <p align="center">
-  Indie builder &amp; freelance dev. I ship AI tools and full-stack platforms.<br>
-  Solving a real problem beats looking clever.
+  Freelance dev. AI tools and full stack platforms.<br>
 </p>
 
 <p align="center">
