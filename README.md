@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://clearpath.cx"><img src="https://img.shields.io/badge/site-clearpath.cx-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="site"></a>
+  <a href="https://cdel.dev"><img src="https://img.shields.io/badge/site-cdel.dev-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="site"></a>
   <img src="https://img.shields.io/badge/open%20to-freelance%20work-8957e5?style=flat-square" alt="open to work">
 </p>
 
@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  Building something and want it done properly? → <a href="https://clearpath.cx"><b>clearpath.cx</b></a>
+  Building something and want it done properly? → <a href="https://cdel.dev"><b>cdel.dev</b></a>
 </p>
